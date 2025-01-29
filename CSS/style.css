@@ -1,0 +1,20 @@
+.sous-titre1{
+    color: orange;
+}
+.titre1{
+    font-size: 50px;
+}
+/* card style */
+.card-spec{
+ background-color: rgb(235, 245, 230);   
+ padding: 5%;
+ border-radius: 10px;
+}
+
+.card-spec:hover{
+    background-color: rgb(235, 245, 230);   
+    padding: 5%;
+    border-radius: 10px;
+    color: orange;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+   }
